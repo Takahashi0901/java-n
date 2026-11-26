@@ -1,0 +1,1 @@
+{ "name": "chat-online", "version": "1.0.0", "description": "Đồ án: Phần mềm chat online (React + Node.js + SQLite)", "scripts": { "start": "node --no-warnings start.js", "test": "node --no-warnings test.js" }, "engines": { "node": ">=22.13" }, "license": "MIT" }
